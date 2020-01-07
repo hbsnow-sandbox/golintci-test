@@ -1,0 +1,2 @@
+# golintci-test
+GolangCIのテスト
